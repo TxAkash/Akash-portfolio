@@ -1,0 +1,77 @@
+{
+  "heading": "Design Gallery",
+  "subheading": "Posters, banners, newsletters and social media graphics I've designed in Photoshop, Figma and Canva.",
+  "categories": [
+    "All",
+    "Poster",
+    "Banner",
+    "Newsletter",
+    "Social Media"
+  ],
+  "designs": [
+    {
+      "id": 1,
+      "title": "Sale Poster",
+      "category": "Poster",
+      "image": "/designs/poster-1.svg",
+      "tool": "Figma",
+      "client": "Sample"
+    },
+    {
+      "id": 2,
+      "title": "Website Hero Banner",
+      "category": "Banner",
+      "image": "/designs/banner-1.svg",
+      "tool": "Canva",
+      "client": "Sample"
+    },
+    {
+      "id": 3,
+      "title": "Monthly Newsletter",
+      "category": "Newsletter",
+      "image": "/designs/newsletter-1.svg",
+      "tool": "Photoshop",
+      "client": "Sample"
+    },
+    {
+      "id": 4,
+      "title": "Instagram Post",
+      "category": "Social Media",
+      "image": "/designs/social-1.svg",
+      "tool": "Figma",
+      "client": "Sample"
+    },
+    {
+      "id": 5,
+      "title": "Event Poster",
+      "category": "Poster",
+      "image": "/designs/poster-2.svg",
+      "tool": "Canva",
+      "client": "Sample"
+    },
+    {
+      "id": 6,
+      "title": "Promo Banner",
+      "category": "Banner",
+      "image": "/designs/banner-2.svg",
+      "tool": "Photoshop",
+      "client": "Sample"
+    },
+    {
+      "id": 7,
+      "title": "Product Launch Email",
+      "category": "Newsletter",
+      "image": "/designs/newsletter-2.svg",
+      "tool": "Figma",
+      "client": "Sample"
+    },
+    {
+      "id": 8,
+      "title": "Festive Social Post",
+      "category": "Social Media",
+      "image": "/designs/social-2.svg",
+      "tool": "Canva",
+      "client": "Sample"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "brand": "Akash",
+  "brandAccent": ".dev",
+  "email": "akashgouda335@gmail.com",
+  "navLinks": [
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "About",
+      "path": "/about"
+    },
+    {
+      "label": "Portfolio",
+      "path": "/portfolio"
+    },
+    {
+      "label": "Designs",
+      "path": "/designs"
+    },
+    {
+      "label": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "footerText": "Designed & built by Akash Kumar Gouda with React & Bootstrap."
+}

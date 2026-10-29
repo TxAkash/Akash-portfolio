@@ -1,0 +1,53 @@
+{
+  "heading": "About Me",
+  "subheading": "A frontend developer who loves turning designs into fast, beautiful websites.",
+  "bio": [
+    "I'm Akash Kumar Gouda, a Frontend Developer currently working at Inflexi Technologies Private Limited. I design, build and manage websites — with a strong focus on eCommerce stores, product design and product data.",
+    "My day-to-day work covers everything from designing pages in Figma and Photoshop to building them with HTML, CSS, JavaScript, Bootstrap, Tailwind CSS and React, and managing storefronts on BigCommerce. I enjoy taking a design and making it pixel-perfect, responsive and easy to maintain."
+  ],
+  "info": [
+    { "label": "Name", "value": "Akash Kumar Gouda" },
+    { "label": "Role", "value": "Frontend Developer" },
+    { "label": "Company", "value": "Inflexi Technologies Pvt. Ltd." },
+    { "label": "Email", "value": "akashgouda335@gmail.com" }
+  ],
+  "skills": [
+    { "name": "HTML5", "level": 95, "icon": "bi-filetype-html" },
+    { "name": "CSS3", "level": 92, "icon": "bi-filetype-css" },
+    { "name": "JavaScript", "level": 80, "icon": "bi-filetype-js" },
+    { "name": "Bootstrap", "level": 92, "icon": "bi-bootstrap" },
+    { "name": "React JS", "level": 75, "icon": "bi-lightning-charge" },
+    { "name": "Tailwind CSS", "level": 78, "icon": "bi-wind" },
+    { "name": "BigCommerce", "level": 88, "icon": "bi-cart3" },
+    { "name": "Basic PHP", "level": 55, "icon": "bi-filetype-php" }
+  ],
+  "tools": [
+    { "name": "Figma", "icon": "bi-vector-pen" },
+    { "name": "Photoshop", "icon": "bi-image" },
+    { "name": "Canva", "icon": "bi-brush" },
+    { "name": "VS Code", "icon": "bi-code-square" },
+    { "name": "Git & GitHub", "icon": "bi-github" }
+  ],
+  "experience": [
+    {
+      "period": "Present",
+      "title": "Frontend Developer",
+      "company": "Inflexi Technologies Private Limited",
+      "points": [
+        "Design, develop and manage client websites with a focus on eCommerce.",
+        "Build and maintain BigCommerce storefronts, themes and email templates.",
+        "Manage eCommerce product design and product data across websites.",
+        "Delivered frontend designs for handiquilter.com.au, pfaff.com.au and 4pointsdigital.com.au."
+      ]
+    },
+    {
+      "period": "Personal Project",
+      "title": "Tour & Travel Website",
+      "company": "Self-initiated",
+      "points": [
+        "Built a complete tour and travel website with a working booking system.",
+        "Designed responsive listing, detail and booking pages."
+      ]
+    }
+  ]
+}

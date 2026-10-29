@@ -1,0 +1,29 @@
+{
+  "heading": "Let's Work Together",
+  "subheading": "Have a project in mind, a job opportunity, or just want to say hello? Drop me an email — I usually reply within a day.",
+  "email": "akashgouda335@gmail.com",
+  "mailSubject": "Hello Akash – Let's work together",
+  "mailBody": "Hi Akash,\n\nI came across your portfolio and would like to talk about...\n\nThanks,",
+  "cards": [
+    {
+      "icon": "bi-briefcase",
+      "title": "Hiring",
+      "text": "Looking for a frontend developer for your team?",
+      "subject": "Job Opportunity for Akash"
+    },
+    {
+      "icon": "bi-laptop",
+      "title": "Freelance Project",
+      "text": "Need a website, landing page or BigCommerce store?",
+      "subject": "Freelance Project Enquiry"
+    },
+    {
+      "icon": "bi-chat-heart",
+      "title": "Just Say Hi",
+      "text": "Questions, feedback or a quick hello are welcome.",
+      "subject": "Hi Akash!"
+    }
+  ],
+  "location": "Odisha, India",
+  "workingHours": "Mon – Sat, 10:00 AM – 7:00 PM IST"
+}

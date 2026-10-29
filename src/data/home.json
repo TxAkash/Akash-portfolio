@@ -1,0 +1,40 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "Akash Kumar Gouda",
+  "roles": ["Frontend Developer", "UI Designer", "BigCommerce Specialist", "React Developer"],
+  "tagline": "I design and build clean, fast and modern websites — from pixel-perfect UI in Figma to responsive frontends in React, Bootstrap and BigCommerce.",
+  "location": "Odisha, India",
+  "availability": "Open to freelance & full-time opportunities",
+  "cta": {
+    "primary": { "label": "View My Work", "link": "/portfolio" },
+    "secondary": { "label": "Get In Touch", "link": "/contact" }
+  },
+  "stats": [
+    { "value": "4+", "label": "Live Projects" },
+    { "value": "12", "label": "Tools & Skills" },
+    { "value": "100%", "label": "Responsive Builds" }
+  ],
+  "techStack": ["HTML5", "CSS3", "JavaScript", "React JS", "Bootstrap", "Tailwind CSS", "BigCommerce", "Figma", "Photoshop", "Canva", "PHP"],
+  "services": [
+    {
+      "icon": "bi-code-slash",
+      "title": "Frontend Development",
+      "description": "Responsive, accessible websites built with HTML, CSS, JavaScript, React, Bootstrap and Tailwind CSS."
+    },
+    {
+      "icon": "bi-bag-check",
+      "title": "eCommerce Management",
+      "description": "BigCommerce storefront design, product data management and day-to-day store maintenance."
+    },
+    {
+      "icon": "bi-palette",
+      "title": "UI / UX Design",
+      "description": "Clean interfaces and layouts designed in Figma, with graphics in Photoshop and Canva."
+    },
+    {
+      "icon": "bi-vector-pen",
+      "title": "Logo & Branding",
+      "description": "Simple, memorable logos and brand visuals that carry through to the website design."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "heading": "My Portfolio",
+  "subheading": "A selection of client websites and personal projects I've designed and built.",
+  "categories": ["All", "Client Work", "Personal"],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Handi Quilter Australia",
+      "category": "Client Work",
+      "type": "Frontend Design",
+      "url": "https://handiquilter.com.au",
+      "description": "Frontend design for the Australian Handi Quilter store — clean product layouts, responsive pages and a consistent brand experience across devices.",
+      "tags": ["BigCommerce", "HTML", "CSS", "JavaScript", "Bootstrap"],
+      "accent": "#0ea5e9",
+      "icon": "bi-scissors"
+    },
+    {
+      "id": 2,
+      "title": "4 Points Digital",
+      "category": "Client Work",
+      "type": "Logo + Frontend Design",
+      "url": "https://4pointsdigital.com.au",
+      "description": "Designed the brand logo and built the complete frontend for 4 Points Digital — a modern, professional web presence for a digital agency.",
+      "tags": ["Logo Design", "Figma", "HTML", "CSS", "JavaScript"],
+      "accent": "#0284c7",
+      "icon": "bi-grid-3x3-gap"
+    },
+    {
+      "id": 3,
+      "title": "PFAFF Australia",
+      "category": "Client Work",
+      "type": "Frontend Design",
+      "url": "https://pfaff.com.au",
+      "description": "Frontend design for PFAFF Australia's eCommerce store — product-focused pages, responsive layouts and polished UI details.",
+      "tags": ["BigCommerce", "HTML", "CSS", "Bootstrap"],
+      "accent": "#38bdf8",
+      "icon": "bi-bag-heart"
+    },
+    {
+      "id": 4,
+      "title": "Tour & Travel Website",
+      "category": "Personal",
+      "type": "Full Website + Booking System",
+      "url": "",
+      "description": "A personal tour and travel website with destination listings, package details and a booking system for customers to reserve trips.",
+      "tags": ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP"],
+      "accent": "#0369a1",
+      "icon": "bi-airplane"
+    }
+  ]
+}
